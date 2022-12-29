@@ -1,0 +1,5 @@
+||RatHumanoidRoom|LeaveCatacombsRoom|
+CrawlerRoom||HauntedRoom|GiantSpiderRoom|
+||ShowSkeleton||
+HellhoundRoom|BatsRoom|StrangeCreatureRoom||ZombieRoom
+GiantSpiderRoom|CameraRoom|StartingRoom|ShowSkeleton|FindDaggerRoom

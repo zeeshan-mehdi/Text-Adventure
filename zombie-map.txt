@@ -1,0 +1,5 @@
+||OuterCity||
+||River||
+||StockExchangetower|FindDaggerRoom|
+|Baseballground|Volleyballground||
+Downtown||StartingZombiesHunt|Lab|Goldenbridge

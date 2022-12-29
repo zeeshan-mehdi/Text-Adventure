@@ -1,0 +1,5 @@
+||Highway|TigerHerd|
+||Elephant||Bear
+||WolfPack||
+||Snake||
+OpenGround|ClimbMountain|StartingWoodsAdvent|Lion|Dragon
