@@ -359,11 +359,11 @@ class TigerHerd(EnemyRoom):
             self.util.TigerGraphic()
             self.sounds.TigerSound();
             return """
-             The king of the jungle, Tiger is here be careful and show your might!
+             The king of the Woods, Tiger is here be careful and show your might!
              """
         else:
             return """
-            You killed the King of the jungle.
+            You killed the King of the Woods.
              """
 
 class Lion(EnemyRoom):
@@ -375,11 +375,11 @@ class Lion(EnemyRoom):
             self.util.LionGraphic()
             self.sounds.LionSound();
             return """
-             The king of the jungle, Lion is here be careful and show your might!
+             The king of the Woods, Lion is here be careful and show your might!
              """
         else:
             return """
-            You killed the King of the jungle.
+            You killed the King of the Woods.
              """
 
 
@@ -402,7 +402,7 @@ class Dragon(EnemyRoom):
 class ClimbMountain(MapTile):
     def intro_text(self):
         return """
-        This mountain in the jungle. Climb it. You will find your way towards your victory.
+        This mountain in the Woods. Climb it. You will find your way towards your victory.
         """
  
     def modify_player(self, player):
@@ -412,7 +412,7 @@ class ClimbMountain(MapTile):
 class OpenGround(MapTile):
     def intro_text(self):
         return """
-        Another open ground in the jungle. pass it. You will find your way towards your victory.
+        Another open ground in the Woods. pass it. You will find your way towards your victory.
         """
  
     def modify_player(self, player):
